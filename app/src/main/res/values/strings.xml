@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="a11y_desc">Jarvis को आपकी आवाज़ पर स्क्रीन पढ़ने, बटन दबाने, टाइप करने और Back/Home जैसे काम करने की अनुमति देता है।</string>
+</resources>
